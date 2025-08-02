@@ -39,9 +39,9 @@ Chaque algorithme est accompagné d'une explication, d'exemples et parfois de vi
    ```bash
    git clone https://github.com/BuffetWarren/Simulation-Des-Algorithmes.git
    ```
-2. Installez les dépendances si nécessaire (voir le fichier `requirements.txt` ou la documentation de chaque dossier).
+2. Accedez les au repertoire .
    ```bash
-   pip install -r requirements.txt
+   cd Simulation-Des-Algorithmes
    ```
 3. Lancez les scripts ou applications selon les instructions spécifiques à chaque algorithme.
 
@@ -50,10 +50,6 @@ Chaque algorithme est accompagné d'une explication, d'exemples et parfois de vi
 - Consultez les dossiers pour découvrir les algorithmes disponibles.
 - Lisez la documentation incluse pour comprendre le fonctionnement de chaque script.
 - Exécutez les exemples fournis ou modifiez les paramètres pour vos propres tests.
-- Pour visualiser un algorithme :
-  ```bash
-  python src/tri/tri_rapide.py
-  ```
   (Adaptez le chemin et le nom du script selon l’algorithme choisi.)
 
 ## Contribuer
